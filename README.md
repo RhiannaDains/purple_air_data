@@ -4,7 +4,7 @@
 
 ### Instal PDM
 
-Use [this guide] (https://pdm.fming.dev/latest/#recommended-installation-method) to get PDM working. 
+Use [this guide](https://pdm.fming.dev/latest/#recommended-installation-method) to get PDM working. 
 
 ### Set Up API Key
 
